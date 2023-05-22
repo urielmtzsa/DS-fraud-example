@@ -5,3 +5,4 @@ matplotlib==3.7.1
 statsmodels==0.14.0
 graphviz==0.20.1
 varclushi==0.1.0
+requests==2.30.0
