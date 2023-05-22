@@ -3,4 +3,5 @@ venv/
 .ipynb_checkpoints/
 __pycache__/
 ds_challenge_2022.pdf
+DS-fraud.pdf
 *.pptx
